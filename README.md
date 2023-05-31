@@ -1,4 +1,6 @@
 # Music_Store_Analysis
-## DESCRIPTION
-SQL project to analyze online music store data
+## INTRODUCTION
+The objective of this SQL project is to analyse the music store data.
+## Tool Used
+Microsoft SQL Server
 
